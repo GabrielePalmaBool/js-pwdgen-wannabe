@@ -1,0 +1,1 @@
+Primo esercizio sull'uso di javascript immissione/stampa informazioni
